@@ -1,6 +1,6 @@
 {
-    "shopping": "y",
+    "shopping": "n",
     "gaming": "n",
     "mix": "n",
-    "streaming": "n"
+    "streaming": "y"
 }
